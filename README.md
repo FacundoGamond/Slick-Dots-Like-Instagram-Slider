@@ -5,7 +5,7 @@ A solution to have instagram dots in a slick slider.
 Add to your head jquery, slick, slick-custom-dots with their respective css files as in the example of the index.html file
 
 ### JS Custom Functon
-Call the function slick Slider (slider, settings), it accepts two parameters: slider and settings.
+Call the function slickSlider(), it accepts two parameters: slider and settings.
 
 #### Example
 
