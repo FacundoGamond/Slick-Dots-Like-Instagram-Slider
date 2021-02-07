@@ -8,6 +8,8 @@ Add to your head jquery, slick, slick-custom-dots with their respective css file
 Call the function slick Slider (slider, settings), it accepts two parameters: slider and settings.
 
 #### Example
+
+<script>
 var slider = $('.slick-slider');
 var settings = {
         arrows: false,
@@ -19,3 +21,6 @@ var settings = {
     }
 
 slickSlider(slide, settings);
+</script>
+
+## HAVE FUN!
