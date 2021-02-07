@@ -1,4 +1,4 @@
-# Slick-Dots-Like-Instagram-Slider
+# Slick Dots Like Instagram Slider
 A solution to have instagram dots in a slick slider.
 
 ## Usage
