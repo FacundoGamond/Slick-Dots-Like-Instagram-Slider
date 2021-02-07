@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     //LOAD INSTAGRAM PHOTOS(AJAX) WITH SLICK
-    var igToken = "IGQVJXenlOTFFMSThrNzBSUjJhb1dyY0xFcE1jdTVZATTRoTnYtOUNnUGhuYUlkbkYwSUtQMEhBU0psUXRVVHhNQzB4Q2FhVnFQRmpRbG9aZAXd1MTZAlUXIwa1gwaTBmamdwWjVqWmtOV0NadVZASVlU3bQZDZD"; //YOUR INSTAGRAM TOKEN GOES HERE
+    var igToken = "YOUR INSTAGRAM TOKEN"; //YOUR INSTAGRAM TOKEN GOES HERE
 
     $.ajax({
         type: 'get',
