@@ -28,16 +28,5 @@ $(document).ready(function(){
             });
         }
     });
-
-
-    //SLICK CALL
-    slickSlider($('.slick-slider-instagram-dots'), {
-        arrows: false,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        dots: true,
-        focusOnSelect: true,
-        infinite: false,
-    });
 })
 
