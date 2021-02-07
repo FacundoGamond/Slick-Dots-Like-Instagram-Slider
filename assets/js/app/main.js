@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     //LOAD INSTAGRAM PHOTOS(AJAX) WITH SLICK
-    var igToken = "YOUR INSTAGRAM TOKEN"; //YOUR INSTAGRAM TOKEN GOES HERE
+    var igToken = "IG TOKEN"; //YOUR INSTAGRAM TOKEN GOES HERE
 
     $.ajax({
         type: 'get',
