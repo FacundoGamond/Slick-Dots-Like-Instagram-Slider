@@ -9,6 +9,7 @@ Call the function slick Slider (slider, settings), it accepts two parameters: sl
 
 #### Example
 
+```html
 <script>
 var slider = $('.slick-slider');
 var settings = {
@@ -22,5 +23,6 @@ var settings = {
 
 slickSlider(slide, settings);
 </script>
+```
 
 ## HAVE FUN!
